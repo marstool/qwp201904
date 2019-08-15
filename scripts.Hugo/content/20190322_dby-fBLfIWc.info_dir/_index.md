@@ -1,0 +1,34 @@
++++
+title = " 20190322_dby-fBLfIWc Weiping Show | Interview with LeiAndra "
+description = " LeiAndra明年即将大学毕业，她为何三次参与新奥尔良志愿者工作？她如何看待美国贫困问题和中美贸易战？....欢迎订阅YouTube平论频道，点赞👍，转发和分享。 "
+weight = 20
++++
+
+{{< mymp4 mp4="20190322_dby-fBLfIWc.info.json.mp4" 
+text="len 27610227"
+>}}
+
+{{< mymp4x  mp4x="20190322_dby-fBLfIWc.info.json.25k.mp4"
+text="len 2155054"
+>}}
+
+
+{{< mydiv text="LeiAndra明年即将大学毕业，她为何三次参与新奥尔良志愿者工作？她如何看待美国贫困问题和中美贸易战？....欢迎订阅YouTube平论频道，点赞👍，转发和分享。" >}}
+<br>
+
+{{< mydiv text="https://www.youtube.com/watch?v=dby-fBLfIWc" >}}
+
+
+<br>
+
+请大家传播时，不需要传播文件本身，<br>
+原因是：一旦传播过大东西（例如，图片，文件），<br>
+就会触发检查机制。<br>
+我不知道检查机制的触发条件。<br>
+但是我知道，不会说你传一个没有敏感词的网络地址都检查，<br>
+否则，检查员得累死。<br><br>
+直接转发网址就可以了：<br>
+原因是，这是程序员网站，<br>
+共匪不敢封锁，墙内可以直接下载。
+
+
